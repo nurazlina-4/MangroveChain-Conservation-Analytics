@@ -1,5 +1,5 @@
-##Analisis Efektivitas Regulasi & Dampak Biodiversitas Mangrove Berbasis Blockchain
-####Latar Belakang
+Analisis Efektivitas Regulasi & Dampak Biodiversitas Mangrove Berbasis Blockchain
+Latar Belakang
 Ekosistem mangrove Indonesia, meskipun terluas di dunia, menghadapi ancaman serius akibat degradasi dan lemahnya sistem pemantauan. 
 MangroveChain hadir sebagai solusi berbasis blockchain untuk memastikan transparansi, akuntabilitas, dan efektivitas proyek konservasi. 
 Analisis ini mengintegrasikan data dari 30 proyek konservasi di seluruh Indonesia untuk menganalisis dan menjawab pertanyaan kunci berikut:
@@ -16,28 +16,28 @@ Dengan Persyaratan Analisis
 2. Verifikasi kepatuhan tata kelola data blockchain
 3. Identifikasi proyek berkinerja terbaik yang memenuhi semua kriteria
 ---
-####Metodologi
+Metodologi
 Untuk menyelesaikan kedua kasus pada latar belakang maka dilakukan pengolahan data dan analisis. 
 Data diambil dari ledger blockchain MangroveChain yang mencakup:
 1. Regulasi: Status izin (Disetujui, Pending, Tolak) dari 010Regulatory_Permits.
 2. Kepemilikan Lahan: Kategori (Negara, Swasta, Masyarakat) dan status batas hukum (Terdefinisi, Tidak Jelas) dari 011Land_Tenure_Records.
 3. Biodiversitas: Metrik kerapatan pohon, kualitas air, dan jumlah spesies dari 012Biodiversity_Monitoring.
-####Teknik Analisis:
+Teknik Analisis:
 Heatmap Korelasi untuk melihat hubungan antara faktor regulasi dan metrik biodiversitas.
 SQL CUBE Analysis (contoh query terlampir di GitHub) untuk eksplorasi multidimensi.
 Prediksi Dampak berbasis machine learning (model regresi) untuk proyeksi keberlanjutan.
 ---
-####Hasil & Temuan Kunci
+Hasil & Temuan Kunci
 1. Status Izin vs. Biodiversitas
 2. Kepemilikan Lahan & Keanekaragaman Spesies
 3. Batas Lahan Terdefinisi Hukum
 .menyusul.
 ---
-####Visualisasi Data
+Visualisasi Data
 1. Heatmap Korelasi
 .menyusul.
 ---
-####Rekomendasi untuk Stakeholder
+Rekomendasi untuk Stakeholder
 1. Untuk Pemerintah & Regulator
 Landasan untuk evaluasi kebijakan berbasis data
 Identifikasi wilayah dengan potensi risiko ekologis tinggi
@@ -50,7 +50,7 @@ Seleksi proyek berdasarkan dampak dan kredibilitas
 Penguatan argumentasi advokasi berbasis data terbuka
 Peta keterlibatan masyarakat dalam proyek konservasi
 ---
-####Kesimpulan
+Kesimpulan
 Integrasi blockchain (MangroveChain) dengan analisis data multidimensi membuktikan:
 1. Regulasi yang transparan (via ledger) meningkatkan efektivitas konservasi.
 2. Kepemilikan lahan masyarakat adalah model terbaik untuk biodiversitas.
