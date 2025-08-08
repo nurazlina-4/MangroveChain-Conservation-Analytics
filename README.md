@@ -85,17 +85,20 @@ Output File:
 3. Kepemilikan Lahan & Keanekaragaman Spesies
 
 Output File:
+
 ![image_1](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_1-12.PNG)
 ![image_2](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_13-30.PNG)
 
 5. Batas Lahan Terdefinisi Hukum
 
 Output File:
+
 ![image_1](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_1-12.PNG)
 ![image_2](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_13-30.PNG)
 
 ### Visualisasi Data 
  Heatmap Korelasi
+ 
  ![correlation](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_correlation.png)
 
 ### Rekomendasi untuk Stakeholder
