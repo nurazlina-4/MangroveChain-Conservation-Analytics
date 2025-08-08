@@ -69,21 +69,22 @@ Data diambil dari ledger blockchain MangroveChain yang mencakup:
 2. Kepemilikan Lahan: Kategori (Negara, Swasta, Masyarakat) dan status batas hukum (Terdefinisi, Tidak Jelas) dari 011Land_Tenure_Records.
 3. Biodiversitas: Metrik kerapatan pohon, kualitas air, dan jumlah spesies dari 012Biodiversity_Monitoring.
 Teknik Analisis:
-Heatmap Korelasi untuk melihat hubungan antara faktor regulasi dan metrik biodiversitas.
 SQL CUBE Analysis (contoh query terlampir di GitHub) untuk eksplorasi multidimensi.
 Prediksi Dampak berbasis machine learning (model regresi) untuk proyeksi keberlanjutan.
+Heatmap Korelasi (contoh query terlampir di GitHub) untuk melihat hubungan antara faktor regulasi dan metrik biodiversitas.
 
 ### Hasil & Temuan Kunci
 1. Status Izin vs. Biodiversitas
+
 Output File:
 ![Status Izin](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/Status_Izin.PNG)
 
-2. Kepemilikan Lahan & Keanekaragaman Spesies
+3. Kepemilikan Lahan & Keanekaragaman Spesies
 Output File:
 ![image_1](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_1-12.PNG)
 ![image_2](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_13-30.PNG)
 
-3. Batas Lahan Terdefinisi Hukum
+4. Batas Lahan Terdefinisi Hukum
 Output File:
 ![image_1](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_1-12.PNG)
 ![image_2](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_13-30.PNG)
