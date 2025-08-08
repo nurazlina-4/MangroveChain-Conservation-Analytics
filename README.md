@@ -69,22 +69,27 @@ Data diambil dari ledger blockchain MangroveChain yang mencakup:
 2. Kepemilikan Lahan: Kategori (Negara, Swasta, Masyarakat) dan status batas hukum (Terdefinisi, Tidak Jelas) dari 011Land_Tenure_Records.
 3. Biodiversitas: Metrik kerapatan pohon, kualitas air, dan jumlah spesies dari 012Biodiversity_Monitoring.
 Teknik Analisis:
-SQL CUBE Analysis (contoh query terlampir di GitHub) untuk eksplorasi multidimensi.
-Prediksi Dampak berbasis machine learning (model regresi) untuk proyeksi keberlanjutan.
-Heatmap Korelasi (contoh query terlampir di GitHub) untuk melihat hubungan antara faktor regulasi dan metrik biodiversitas.
+1. SQL CUBE Analysis (contoh query terlampir di GitHub) untuk eksplorasi multidimensi.
+[Klik Disini Untuk Melihat Contoh Query](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/contoh_query/query_SQL.sql)
+2. Prediksi Dampak berbasis machine learning (model regresi) untuk proyeksi keberlanjutan.
+3. Heatmap Korelasi (contoh kode skrip terlampir di GitHub) untuk melihat hubungan antara faktor regulasi dan metrik biodiversitas.
+[Klik Disini Untuk Melihat Contoh Kode Skrip](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/contoh_query/skripkode_studikasus1.ipynb)
 
 ### Hasil & Temuan Kunci
 1. Status Izin vs. Biodiversitas
 
 Output File:
+
 ![Status Izin](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/Status_Izin.PNG)
 
 3. Kepemilikan Lahan & Keanekaragaman Spesies
+
 Output File:
 ![image_1](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_1-12.PNG)
 ![image_2](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_13-30.PNG)
 
-4. Batas Lahan Terdefinisi Hukum
+5. Batas Lahan Terdefinisi Hukum
+
 Output File:
 ![image_1](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_1-12.PNG)
 ![image_2](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_13-30.PNG)
@@ -93,7 +98,6 @@ Output File:
  Heatmap Korelasi
  ![correlation](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_correlation.png)
 
----
 ### Rekomendasi untuk Stakeholder
 1. Untuk Pemerintah & Regulator
 Landasan untuk evaluasi kebijakan berbasis data
@@ -106,7 +110,7 @@ Seleksi proyek berdasarkan dampak dan kredibilitas
 3. Untuk Komunitas & NGO
 Penguatan argumentasi advokasi berbasis data terbuka
 Peta keterlibatan masyarakat dalam proyek konservasi
----
+
 ### Kesimpulan
 Integrasi blockchain (MangroveChain) dengan analisis data multidimensi membuktikan:
 1. Regulasi yang transparan (via ledger) meningkatkan efektivitas konservasi.
