@@ -106,27 +106,39 @@ Output File:
 ### Interpretasi
 
 1. Status Izin vs. Biodiversitas
+
 Dari data dan heatmap, hubungan antara status izin dan kualitas lingkungan ternyata lemah. Korelasi dengan kerapatan pohon ada sedikit positif (0,20), tapi dengan kualitas air malah sedikit negatif (-0,14). Artinya, proyek yang sudah disetujui izinnya belum tentu punya kualitas air lebih baik, meskipun ada sedikit tanda bahwa pohonnya lebih rapat.
 Bayangkan status izin seperti kartu anggota klub berkebun. Punya kartu ini memang sedikit membantu punya kebun lebih rimbun, tapi belum tentu membuat air kolam di kebun jadi lebih jernih. Jadi, izin saja tidak otomatis menjamin kondisi alam yang jauh lebih baik.
 
 2. Kepemilikan Lahan & Keanekaragaman Spesies
+
 Korelasi jenis kepemilikan lahan dengan jumlah spesies justru sedikit negatif (-0,095). Artinya, tidak ada bukti kuat bahwa lahan negara atau lahan swasta selalu lebih kaya spesies dibanding lahan masyarakat. Bahkan sedikit condong ke arah sebaliknya, meski nilainya sangat kecil.
 Ibaratnya, mau rumah itu milik pemerintah, perusahaan, atau komunitas warga, jumlah jenis tanaman di halaman tidak jauh berbeda. Pemiliknya beda, tapi kalau cara merawatnya sama, hasilnya juga mirip.
 
 3. Batas Lahan Terdefinisi Hukum
+
 Korelasi antara batas lahan yang jelas secara hukum dengan hasil ekologis juga lemah: sedikit positif untuk kualitas air (0,13) dan hampir nol untuk kerapatan pohon (0,02). Ini menunjukkan bahwa punya pagar dan batas yang sah secara hukum memang sedikit membantu kualitas air, tapi pengaruhnya kecil sekali.
 Seperti punya pagar di kebun. Pagar bisa membuat kebun sedikit lebih rapi dan air sumur agak lebih bersih karena gangguan berkurang, tapi kalau pemeliharaannya tidak rutin, hasilnya tetap biasa-biasa saja.
 
 ### Rekomendasi 
 1. Bangun mekanisme evaluasi pasca-izin berbasis indikator ekologi
+
 – Integrasikan real-time monitoring (misalnya sensor kualitas air, citra drone untuk kerapatan pohon) ke blockchain. Ibaratnya, izin baru “aktif” nilainya kalau progres ekologi terbukti tercapai.
+
 2. Fokus pada kualitas pengelolaan, bukan hanya status kepemilikan lahan
+
 – Karena jenis kepemilikan tidak banyak memengaruhi biodiversitas, maka platform bisa menstandarkan prosedur pengelolaan di semua tipe lahan, sehingga manfaat ekologis merata.
+
 3. Kuatkan aspek legal boundary dengan perlindungan lapangan
+
 – Walaupun batas hukum membantu sedikit, efeknya akan maksimal jika disertai patroli digital (misalnya GPS tracker atau geofencing di peta blockchain untuk deteksi perambahan).
+
 4. Gunakan analitik data untuk prioritas pendanaan
+
 – Dari 30 proyek yang dianalisis, skor kualitas air dan kerapatan pohon bisa menjadi dasar peringkat proyek (project ranking) untuk menentukan prioritas insentif atau intervensi.
+
 5. Kaitkan indikator ekologi dengan skema kredit karbon
+
 – Pastikan klaim kredit karbon di blockchain tidak hanya berdasar luasan tanam, tapi juga kualitas ekosistem (air bersih, pohon rapat, spesies beragam) agar kredit lebih kredibel di pasar internasional.
 
 ### Kesimpulan
