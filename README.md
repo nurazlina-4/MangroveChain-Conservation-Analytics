@@ -28,11 +28,13 @@ Kelompok 1:
 # BAB I. PENDAHULUAN
 ## 1.1 Latar Belakang Masalah
 
-Indonesia sebagai pemilik 23% mangrove global (3.7 juta hektar) menghadapi degradasi 40% sejak 1980 akibat alih fungsi lahan dan lemahnya sistem pemantauan. 
-MangroveChain hadir sebagai solusi blockchain yang mengintegrasikan 14 dimensi data dari 30 proyek konservasi di seluruh Indonesia untuk menjawab tiga masalah kritis:
-1. Variasi hasil konservasi (contoh: kerapatan pohon 40% lebih tinggi di proyek berizin di Kalimantan Timur).
-2. Ketidaksesuaian antara status izin dan hasil ekologis (contoh: kualitas air buruk di Jawa meskipun izin disetujui).
-3. Ketidakpastian kepemilikan lahan dan batas hukum yang mempengaruhi efektivitas konservasi.
+Indonesia, yang memiliki 23% mangrove dunia atau sekitar 3,7 juta hektar, menghadapi tantangan serius karena 40% ekosistem ini telah rusak sejak tahun 1980 akibat alih fungsi lahan dan lemahnya sistem pemantauan. Di tengah semakin meningkatnya kesadaran global akan perubahan iklim, konsep ekonomi karbon kini menjadi sorotan. Salah satu pahlawan tanpa tanda jasa dalam menangkap karbon adalah ekosistem mangrove, yang dikenal sebagai blue carbon. Mangrove mampu menyerap karbon jauh lebih efisien dibandingkan hutan darat, bagaikan spons raksasa yang menyerap polusi karbon dari udara. Namun, menjaga mangrove tetap lestari bukanlah tugas mudah. Banyak tantangan muncul, seperti kurangnya transparansi, masalah legalitas lahan, sulitnya memantau kemajuan konservasi, hingga pendanaan yang sering kali terhambat. Di sinilah teknologi blockchain hadir sebagai solusi inovatif. Bayangkan blockchain seperti sebuah buku catatan digital raksasa yang tidak bisa dihapus atau diubah sembarangan. Setiap transaksi, seperti perdagangan kredit karbon atau keterlibatan masyarakat, dicatat dengan jelas, transparan, dan dapat diperiksa oleh siapa saja.
+
+Transparansi ini sangat penting, terutama untuk data geografis seperti peta area konservasi atau titik koordinat pemantauan. Dengan blockchain, semua pihak—mulai dari pembeli kredit karbon, investor, hingga lembaga donor—bisa memastikan bahwa proyek konservasi benar-benar berjalan di lapangan. Misalnya, mereka bisa memverifikasi lokasi mangrove menggunakan citra satelit atau drone, seperti memeriksa lokasi rumah baru melalui Google Maps sebelum membelinya. Ini meningkatkan kepercayaan bahwa dana yang mereka berikan benar-benar digunakan untuk tujuan konservasi. Namun, tantangan lain muncul. Wilayah mangrove sering kali berada di lahan yang diklaim oleh masyarakat adat, rentan terhadap perambahan ilegal, atau bahkan tumpang tindih dengan izin perusahaan lain. Mempublikasikan lokasi mangrove yang baru ditanam bisa berisiko, seperti mengumumkan lokasi harta karun sebelum ada penjaga yang kuat. Jika data ini jatuh ke tangan yang salah, mangrove yang masih muda bisa dirusak sebelum tumbuh kuat.
+
+Selain itu, penting untuk memastikan bahwa apa yang dicatat di blockchain benar-benar mencerminkan kenyataan di lapangan. Misalnya, ketika seorang auditor pemerintah memeriksa proyek, apakah verifikasi mereka hanya untuk laporan atau justru memicu pencairan dana besar? Ini seperti memastikan bahwa tiket konser yang dibeli online benar-benar valid saat masuk ke venue. Ada juga masalah waktu: sering kali, izin dari pemerintah dikeluarkan jauh sebelum proyek dimulai di lapangan dan dicatat di blockchain. Bayangkan seperti menunggu lampu hijau dari bos sebelum mulai bekerja, tapi pekerjaan itu baru bisa dicatat setelah semua persiapan selesai. Ketidaksesuaian waktu ini bisa menghambat efisiensi proyek.
+
+Untuk menjawab semua tantangan ini, hadirlah MangroveChain, sebuah platform berbasis blockchain yang dirancang khusus untuk konservasi mangrove dari Aceh hingga Papua. Platform ini seperti asisten cerdas yang menggabungkan 14 jenis data penting, mulai dari pemantauan ekologi, transaksi karbon, legalitas lahan, hingga pembagian keuntungan untuk masyarakat lokal. Dengan MangroveChain, konservasi mangrove tidak lagi hanya soal menanam pohon, tetapi membangun ekosistem digital yang transparan, efisien, dan benar-benar berdampak. Analisis jaringan blockchain yang akan dibahas pada bab berikutnya menjadi langkah penting untuk memastikan bahwa MangroveChain bukan sekadar database, melainkan fondasi kuat untuk masa depan konservasi mangrove di Indonesia.
 
 ## 1.2 Identifikasi Masalah
 Berdasarkan hasil analisis dan referensi ilmiah dalam tutorial konservasi mangrove serta data lapangan, proyek ini mengidentifikasi permasalahan utama sebagai berikut:
@@ -82,14 +84,14 @@ Output File:
 
 ![Status Izin](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/Status_Izin.PNG)
 
-3. Kepemilikan Lahan & Keanekaragaman Spesies
+2. Kepemilikan Lahan & Keanekaragaman Spesies
 
 Output File:
 
 ![image_1](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_1-12.PNG)
 ![image_2](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_13-30.PNG)
 
-5. Batas Lahan Terdefinisi Hukum
+3. Batas Lahan Terdefinisi Hukum
 
 Output File:
 
@@ -101,21 +103,33 @@ Output File:
  
  ![correlation](https://github.com/nurazlina-4/MangroveChain-Conservation-Analytics/blob/main/images/output_correlation.png)
 
-### Rekomendasi untuk Stakeholder
-1. Untuk Pemerintah & Regulator
-Landasan untuk evaluasi kebijakan berbasis data
-Identifikasi wilayah dengan potensi risiko ekologis tinggi
-Penguatan kontrol atas izin proyek konservasi
-2. Untuk Investor & Donor
-Informasi kuantitatif mengenai efisiensi karbon per investasi
-Verifikasi transparansi data dan keterlibatan komunitas
-Seleksi proyek berdasarkan dampak dan kredibilitas
-3. Untuk Komunitas & NGO
-Penguatan argumentasi advokasi berbasis data terbuka
-Peta keterlibatan masyarakat dalam proyek konservasi
+### Interpretasi
+
+1. Status Izin vs. Biodiversitas
+Dari data dan heatmap, hubungan antara status izin dan kualitas lingkungan ternyata lemah. Korelasi dengan kerapatan pohon ada sedikit positif (0,20), tapi dengan kualitas air malah sedikit negatif (-0,14). Artinya, proyek yang sudah disetujui izinnya belum tentu punya kualitas air lebih baik, meskipun ada sedikit tanda bahwa pohonnya lebih rapat.
+Bayangkan status izin seperti kartu anggota klub berkebun. Punya kartu ini memang sedikit membantu punya kebun lebih rimbun, tapi belum tentu membuat air kolam di kebun jadi lebih jernih. Jadi, izin saja tidak otomatis menjamin kondisi alam yang jauh lebih baik.
+
+2. Kepemilikan Lahan & Keanekaragaman Spesies
+Korelasi jenis kepemilikan lahan dengan jumlah spesies justru sedikit negatif (-0,095). Artinya, tidak ada bukti kuat bahwa lahan negara atau lahan swasta selalu lebih kaya spesies dibanding lahan masyarakat. Bahkan sedikit condong ke arah sebaliknya, meski nilainya sangat kecil.
+Ibaratnya, mau rumah itu milik pemerintah, perusahaan, atau komunitas warga, jumlah jenis tanaman di halaman tidak jauh berbeda. Pemiliknya beda, tapi kalau cara merawatnya sama, hasilnya juga mirip.
+
+3. Batas Lahan Terdefinisi Hukum
+Korelasi antara batas lahan yang jelas secara hukum dengan hasil ekologis juga lemah: sedikit positif untuk kualitas air (0,13) dan hampir nol untuk kerapatan pohon (0,02). Ini menunjukkan bahwa punya pagar dan batas yang sah secara hukum memang sedikit membantu kualitas air, tapi pengaruhnya kecil sekali.
+Seperti punya pagar di kebun. Pagar bisa membuat kebun sedikit lebih rapi dan air sumur agak lebih bersih karena gangguan berkurang, tapi kalau pemeliharaannya tidak rutin, hasilnya tetap biasa-biasa saja.
+
+### Rekomendasi 
+1. Bangun mekanisme evaluasi pasca-izin berbasis indikator ekologi
+– Integrasikan real-time monitoring (misalnya sensor kualitas air, citra drone untuk kerapatan pohon) ke blockchain. Ibaratnya, izin baru “aktif” nilainya kalau progres ekologi terbukti tercapai.
+2. Fokus pada kualitas pengelolaan, bukan hanya status kepemilikan lahan
+– Karena jenis kepemilikan tidak banyak memengaruhi biodiversitas, maka platform bisa menstandarkan prosedur pengelolaan di semua tipe lahan, sehingga manfaat ekologis merata.
+3. Kuatkan aspek legal boundary dengan perlindungan lapangan
+– Walaupun batas hukum membantu sedikit, efeknya akan maksimal jika disertai patroli digital (misalnya GPS tracker atau geofencing di peta blockchain untuk deteksi perambahan).
+4. Gunakan analitik data untuk prioritas pendanaan
+– Dari 30 proyek yang dianalisis, skor kualitas air dan kerapatan pohon bisa menjadi dasar peringkat proyek (project ranking) untuk menentukan prioritas insentif atau intervensi.
+5. Kaitkan indikator ekologi dengan skema kredit karbon
+– Pastikan klaim kredit karbon di blockchain tidak hanya berdasar luasan tanam, tapi juga kualitas ekosistem (air bersih, pohon rapat, spesies beragam) agar kredit lebih kredibel di pasar internasional.
 
 ### Kesimpulan
-Integrasi blockchain (MangroveChain) dengan analisis data multidimensi membuktikan:
-1. Regulasi yang transparan (via ledger) meningkatkan efektivitas konservasi.
-2. Kepemilikan lahan masyarakat adalah model terbaik untuk biodiversitas.
-3. Batas hukum yang jelas mengurangi risiko dan meningkatkan dampak ekologis.
+Izin: Sedikit berpengaruh ke rapatnya pohon, tapi tidak menjamin air lebih bersih.
+Kepemilikan lahan: Hampir tidak berpengaruh ke jumlah spesies.
+Batas lahan hukum: Ada sedikit pengaruh positif ke kualitas air, tapi kecil sekali.
