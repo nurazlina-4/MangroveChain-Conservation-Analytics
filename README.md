@@ -108,7 +108,7 @@ Output File:
 1. Status Izin vs. Biodiversitas
 
 Dari data dan heatmap, hubungan antara status izin dan kualitas lingkungan ternyata lemah. Korelasi dengan kerapatan pohon ada sedikit positif (0,20), tapi dengan kualitas air malah sedikit negatif (-0,14). Artinya, proyek yang sudah disetujui izinnya belum tentu punya kualitas air lebih baik, meskipun ada sedikit tanda bahwa pohonnya lebih rapat.
-Bayangkan status izin seperti kartu anggota klub berkebun. Punya kartu ini memang sedikit membantu punya kebun lebih rimbun, tapi belum tentu membuat air kolam di kebun jadi lebih jernih. Jadi, izin saja tidak otomatis menjamin kondisi alam yang jauh lebih baik.
+Bayangkan status izin seperti kartu anggota klub berkebun. Punya kartu ini memang sedikit membantu punya kebun lebih rimbun, tapi belum tentu membuat air kolam di kebun jadi lebih jernih. Jadi, izin saja tidak otomatis menjamin kondisi alam yang jauh lebih baik. Walaupun korelasi dengan ekologi rendah, ketidaksesuaian izin dan progres bisa menunjukkan risiko hukum tinggi. Korelasi rendah menunjukkan banyak batas yang lemah → potensi sengketa tinggi. Kualitas ekologi rendah di area berizin bisa jadi indikasi pelanggaran atau kelalaian. Dengan analisis multi-dimensi ini, MangroveChain bisa menandai proyek berisiko hukum tinggi sejak awal → sehingga dana donor/investor tidak masuk ke proyek yang rawan gagal secara legal. Juga bisa membantu pemerintah menargetkan intervensi hukum sebelum sengketa atau perusakan terjadi.
 
 2. Kepemilikan Lahan & Keanekaragaman Spesies
 
