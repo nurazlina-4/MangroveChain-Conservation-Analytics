@@ -143,5 +143,7 @@ Seperti punya pagar di kebun. Pagar bisa membuat kebun sedikit lebih rapi dan ai
 
 ### Kesimpulan
 Izin: Sedikit berpengaruh ke rapatnya pohon, tapi tidak menjamin air lebih bersih.
+
 Kepemilikan lahan: Hampir tidak berpengaruh ke jumlah spesies.
+
 Batas lahan hukum: Ada sedikit pengaruh positif ke kualitas air, tapi kecil sekali.
